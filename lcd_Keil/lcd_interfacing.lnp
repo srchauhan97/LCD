@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"main.obj" 
+TO "lcd_interfacing" 
+RAMSIZE(256) 
